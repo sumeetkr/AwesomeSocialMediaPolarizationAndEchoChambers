@@ -11,7 +11,7 @@ Polarized groups typically contain two densely connected groups with some cross-
 
 I have created a Jupyter [Notebook file](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers/blob/master/CreateSyntheticDataset.ipynb) that demonstrates how to cretae such networks in a few lines of code. 
 
-Next, we will add attributes to these nodes. This is aligned with the idea that polarization of a partitioned network can be explained by nodes behaviours. For example, nodes in one group wil be 'pro' some targte, whereas nodes in other group will be 'anti' the same target.
+Next, we will add attributes to these nodes. This is aligned with the idea that polarization of a partitioned network can be explained by nodes behaviour. For example, nodes in one group wil be 'pro' some target, whereas nodes in other group will be 'anti' the same target.
 
 We again use the same notebook to create attributed networks [Notebook file](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers/blob/master/CreateSyntheticDataset.ipynb). 
 
@@ -21,7 +21,13 @@ Next, i will try some of the algorithms used in some of the papers listed below 
 
 ## Real-World Dataset
 
+ToDo: I have some Twitter datasets that I will add here. Other possiblity is the blogs dataset used in earlier studies.
+
+
 # b) Code
+
+To create a synthetic dataset, you can use this Jupyter [Notebook file](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers/blob/master/CreateSyntheticDataset.ipynb)
+
 
 # c) Publications
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
