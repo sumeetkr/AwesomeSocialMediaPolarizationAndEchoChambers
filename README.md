@@ -24,7 +24,15 @@ BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-pa
 
 # f) Related Publications, but not necessarily on the topic above
 
-# g) Citation on above paper in Bibtex (Ideally this shold be another file)
+# g) Citation of above papers in Bibtex (ToDo: This should be another file)
+@article{garimella2018political,
+  title={Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship},
+  author={Garimella, Kiran and Morales, Gianmarco De Francisci and Gionis, Aristides and Mathioudakis, Michael},
+  journal={arXiv preprint arXiv:1801.01665},
+  year={2018}
+}
+
+
 @article{Garimella:2018:QCS:3178568.3140565,
  author = {Garimella, Kiran and Morales, Gianmarco De Francisci and Gionis, Aristides and Mathioudakis, Michael},
  title = {Quantifying Controversy on Social Media},
