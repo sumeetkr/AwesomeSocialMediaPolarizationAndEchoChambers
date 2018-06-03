@@ -37,7 +37,7 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 2018, Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
 
-    Important Results:
+    Important Contributions:
 
     
     Dataset Used:
@@ -54,7 +54,7 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 2015, Morales, A. J., Javier Borondo, Juan Carlos Losada, and Rosa M. Benito. ["Measuring political polarization: Twitter shows the two sides of Venezuela." Chaos: An Interdisciplinary Journal of Nonlinear Science 25, no. 3 (2015): 033114](https://arxiv.org/pdf/1505.04095.pdf)
 
-    Important Results:
+    Important Contributions:
 
     
     Dataset Used:
@@ -67,24 +67,31 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 2013, Guerra, Pedro Henrique Calais, Wagner Meira Jr, Claire Cardie, and Robert Kleinberg. ["A Measure of Polarization on Social Media Networks Based on Community Boundaries." In ICWSM. 2013.(https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewPDFInterstitial/6104Pedro/6360)
 
-    Important Contribution:
+    Important Contributions:
         Systematic comparison of social-networks in polarized and non-polarized contexts.
         Modularity is not a good measure for learning antagonism between two groups as non-polarized gropus also contain modular communities
-        Proposed a new polarization metric
-        Found that polarized networks tend to have low concentration of popular nodes along the boundary
+        Proposed a new polarization metric (by using information about nodes on community boundary)
+        Found that polarized networks tend to have low concentration of hih-degree nodes at the boundary of communities
         
 
     
     Dataset Used:
         Twitter gun-control tweets
+        University Friendshp Network
+        Brazilian Soccer Supporters
+        New York City Sports Teams
+        Karate's Club
+        2004 US Political Blogoshpere
 
     
     Analysis:
+        Proposed a new polarization metric
+        Tried the new metric on differnet dataset
         
 
 2011, Conover, Michael, Jacob Ratkiewicz, Matthew R. Francisco, Bruno Gonçalves, Filippo Menczer, and Alessandro Flammini. ["Political polarization on twitter." ICWSM 133 (2011): 89-96](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2847/3275)
 
-    Important Contribution:
+    Important Contributions:
     Political retweets network exhibt segregated partisan netowork
     Mentions networks do not exhibit segregation, instead refelcts a single heterogeneous cluster. Mentions are used for bridging.
     Hashtags are used to reach politically opposed users
