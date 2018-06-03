@@ -6,17 +6,20 @@ Table of content:
 
 # a) Data repository 
 
+# b) Code
 
-# b) Publications
+# c) Publications
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
+Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
 
 
-# c) Tutorials
+
+# d) Tutorials
 Awesome tutorial by Kiran  Garimella [Orignially shared on Dropbox](https://www.dropbox.com/s/labk5uu6e2j407h/Polarization%20on%20Social%20Media.pptx?dl=0#)
 
 
-# d) Useful Websites
+# e) Useful Websites
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages) 
 
-# e) Related Publications, but not necessarily on the topic above
+# f) Related Publications, but not necessarily on the topic above
