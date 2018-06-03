@@ -30,6 +30,9 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 
 # c) Publications
+
+2018, Hu, Lin, and Anqi Li. ["The Politics of Attention." (2018](http://economics.ucdavis.edu/events/papers/313Li.pdf)
+
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
 2018, Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
@@ -52,6 +55,7 @@ Awesome tutorial by Kiran  Garimella [Orignially shared on Dropbox](https://www.
 
 # e) Useful Websites
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages) 
+BBC [The-myth-of-the-online-echo-chamber](http://www.bbc.com/future/story/20180416-the-myth-of-the-online-echo-chamber)
 
 # f) Related Publications, but not necessarily on the topic above
 
@@ -149,3 +153,9 @@ keywords={Web sites;natural language processing;echo chambers;hand-coded blog co
 doi={10.1109/HICSS.2009.91}, 
 ISSN={1530-1605}, 
 month={Jan},}
+
+@article{peterson2017echo,
+  title={Echo Chambers and Partisan Polarization: Evidence from the 2016 Presidential Campaign},
+  author={Peterson, Erik and Goel, Sharad and Iyengar, Shanto},
+  year={2017}
+}
