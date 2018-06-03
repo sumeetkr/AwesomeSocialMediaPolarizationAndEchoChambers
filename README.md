@@ -1,4 +1,4 @@
-# Awesome Social-Media Polarization and EchoChambers
+# Awesome Social-Media Polarization and Echo-Chambers
 
 This page is summarizes recent research on Polarization and Echo-chambers on Social Media. Unlike other survey pages, this site will focus on reproducible research along with data and code snippets. Inspired from other 'awesome' github pages like [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).
 
@@ -7,7 +7,7 @@ Table of content:
 # a) Data repository 
 
 ## Synthetic Dataset
-Polarized groups, typically contain two densely connected groups with some cross-connections. This pattern can be modeled by Stochastic Block Models (SBMs). I have created a Jupyter Notebook file that demonstrates how to cretae such networks in a few line of code.
+Polarized groups typically contain two densely connected groups with some cross-connections. This pattern can be easily modeled by Stochastic Block Models (SBMs). I have created a Jupyter Notebook file that demonstrates how to cretae such networks in a few lines of code.
 
 ## Real-World Dataset
 
