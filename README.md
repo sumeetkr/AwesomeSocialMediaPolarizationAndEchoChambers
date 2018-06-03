@@ -17,6 +17,8 @@ Table of content:
 
 2013, Guerra, Pedro Henrique Calais, Wagner Meira Jr, Claire Cardie, and Robert Kleinberg. ["A Measure of Polarization on Social Media Networks Based on Community Boundaries." In ICWSM. 2013.(https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewPDFInterstitial/6104Pedro/6360)
 
+2011, Conover, Michael, Jacob Ratkiewicz, Matthew R. Francisco, Bruno Gonçalves, Filippo Menczer, and Alessandro Flammini. ["Political polarization on twitter." ICWSM 133 (2011): 89-96](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2847/3275)
+
 
 # d) Tutorials
 Awesome tutorial by Kiran  Garimella [Orignially shared on Dropbox](https://www.dropbox.com/s/labk5uu6e2j407h/Polarization%20on%20Social%20Media.pptx?dl=0#)
@@ -73,4 +75,13 @@ BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-pa
   author={Guerra, Pedro Henrique Calais and Meira Jr, Wagner and Cardie, Claire and Kleinberg, Robert},
   booktitle={ICWSM},
   year={2013}
+}
+
+@article{conover2011political,
+  title={Political polarization on twitter.},
+  author={Conover, Michael and Ratkiewicz, Jacob and Francisco, Matthew R and Gon{\c{c}}alves, Bruno and Menczer, Filippo and Flammini, Alessandro},
+  journal={ICWSM},
+  volume={133},
+  pages={89--96},
+  year={2011}
 }
