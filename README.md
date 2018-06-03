@@ -23,6 +23,7 @@ Table of content:
 
 2011, Conover, Michael, Jacob Ratkiewicz, Matthew R. Francisco, Bruno Gonçalves, Filippo Menczer, and Alessandro Flammini. ["Political polarization on twitter." ICWSM 133 (2011): 89-96](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2847/3275)
 
+2009, Gilbert, Eric, Tony Bergstrom, and Karrie Karahalios. ["Blogs are echo chambers: Blogs are echo chambers." In System Sciences, 2009. HICSS'09. 42nd Hawaii International Conference on, pp. 1-10. IEEE, 2009.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.8065&rep=rep1&type=pdf)
 
 # d) Tutorials
 Awesome tutorial by Kiran  Garimella [Orignially shared on Dropbox](https://www.dropbox.com/s/labk5uu6e2j407h/Polarization%20on%20Social%20Media.pptx?dl=0#)
@@ -114,3 +115,16 @@ url = "http://www.sciencedirect.com/science/article/pii/S0959378015000369",
 author = "Hywel T.P. Williams and James R. McMurray and Tim Kurz and F. Hugo Lambert",
 keywords = "Social network analysis, Climate change, Polarisation, Echo chamber, Opinion leader"
 }
+
+@INPROCEEDINGS{Gilbert2009, 
+author={E. Gilbert and T. Bergstrom and K. Karahalios}, 
+booktitle={2009 42nd Hawaii International Conference on System Sciences}, 
+title={Blogs are Echo Chambers: Blogs are Echo Chambers}, 
+year={2009}, 
+volume={}, 
+number={}, 
+pages={1-10}, 
+keywords={Web sites;natural language processing;echo chambers;hand-coded blog comments;linguistic markers;natural language processing techniques;Blogs;Couplings;Humans;Lead;Milling machines;Natural language processing;Nominations and elections;Polarization;Psychology;Testing}, 
+doi={10.1109/HICSS.2009.91}, 
+ISSN={1530-1605}, 
+month={Jan},}
