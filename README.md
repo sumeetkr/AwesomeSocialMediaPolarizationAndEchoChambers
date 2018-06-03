@@ -7,7 +7,17 @@ Table of content:
 # a) Data repository 
 
 ## Synthetic Dataset
-Polarized groups typically contain two densely connected groups with some cross-connections. This pattern can be easily modeled by Stochastic Block Models (SBMs). I have created a Jupyter Notebook file that demonstrates how to cretae such networks in a few lines of code.
+Polarized groups typically contain two densely connected groups with some cross-connections. This pattern can be easily modeled by Stochastic Block Models (SBMs). Note that such a netowrk structure does not gurantee polarization, but could be used as starting point. 
+
+I have created a Jupyter [Notebook file](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers/blob/master/CreateSyntheticDataset.ipynb) that demonstrates how to cretae such networks in a few lines of code. 
+
+Next, we will add attributes to these nodes. This is aligned with the idea that polarization of a partitioned network can be explained by nodes behaviours. For example, nodes in one group wil be 'pro' some targte, whereas nodes in other group will be 'anti' the same target.
+
+We again use the same notebook to create attributed networks [Notebook file](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers/blob/master/CreateSyntheticDataset.ipynb). 
+
+
+Next, i will try some of the algorithms used in some of the papers listed below to find how well they on this synthetic dataset.
+
 
 ## Real-World Dataset
 
