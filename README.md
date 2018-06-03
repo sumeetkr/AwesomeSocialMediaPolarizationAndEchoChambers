@@ -17,6 +17,8 @@ Table of content:
 
 2015, Morales, A. J., Javier Borondo, Juan Carlos Losada, and Rosa M. Benito. ["Measuring political polarization: Twitter shows the two sides of Venezuela." Chaos: An Interdisciplinary Journal of Nonlinear Science 25, no. 3 (2015): 033114](https://arxiv.org/pdf/1505.04095.pdf)
 
+2015, Williams, Hywel TP, James R. McMurray, Tim Kurz, and F. Hugo Lambert. ["Network analysis reveals open forums and echo chambers in social media discussions of climate change." Global Environmental Change 32 (2015): 126-138.](https://www.sciencedirect.com/science/article/pii/S0959378015000369)
+
 2013, Guerra, Pedro Henrique Calais, Wagner Meira Jr, Claire Cardie, and Robert Kleinberg. ["A Measure of Polarization on Social Media Networks Based on Community Boundaries." In ICWSM. 2013.(https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewPDFInterstitial/6104Pedro/6360)
 
 2011, Conover, Michael, Jacob Ratkiewicz, Matthew R. Francisco, Bruno Gonçalves, Filippo Menczer, and Alessandro Flammini. ["Political polarization on twitter." ICWSM 133 (2011): 89-96](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2847/3275)
@@ -97,4 +99,18 @@ BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-pa
   pages={1531--1542},
   year={2015},
   publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
+
+
+@article{WILLIAMS2015126,
+title = "Network analysis reveals open forums and echo chambers in social media discussions of climate change",
+journal = "Global Environmental Change",
+volume = "32",
+pages = "126 - 138",
+year = "2015",
+issn = "0959-3780",
+doi = "https://doi.org/10.1016/j.gloenvcha.2015.03.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0959378015000369",
+author = "Hywel T.P. Williams and James R. McMurray and Tim Kurz and F. Hugo Lambert",
+keywords = "Social network analysis, Climate change, Polarisation, Echo chamber, Opinion leader"
 }
