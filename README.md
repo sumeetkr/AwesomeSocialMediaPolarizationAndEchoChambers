@@ -11,9 +11,9 @@ Table of content:
 # c) Publications
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
-Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
+2018, Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
 
-
+2015, Morales, A. J., Javier Borondo, Juan Carlos Losada, and Rosa M. Benito. ["Measuring political polarization: Twitter shows the two sides of Venezuela." Chaos: An Interdisciplinary Journal of Nonlinear Science 25, no. 3 (2015): 033114](https://arxiv.org/pdf/1505.04095.pdf)
 
 # d) Tutorials
 Awesome tutorial by Kiran  Garimella [Orignially shared on Dropbox](https://www.dropbox.com/s/labk5uu6e2j407h/Polarization%20on%20Social%20Media.pptx?dl=0#)
@@ -23,3 +23,36 @@ Awesome tutorial by Kiran  Garimella [Orignially shared on Dropbox](https://www.
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages) 
 
 # f) Related Publications, but not necessarily on the topic above
+
+# g) Citation on above paper in Bibtex (Ideally this shold be another file)
+@article{Garimella:2018:QCS:3178568.3140565,
+ author = {Garimella, Kiran and Morales, Gianmarco De Francisci and Gionis, Aristides and Mathioudakis, Michael},
+ title = {Quantifying Controversy on Social Media},
+ journal = {Trans. Soc. Comput.},
+ issue_date = {February 2018},
+ volume = {1},
+ number = {1},
+ month = jan,
+ year = {2018},
+ issn = {2469-7818},
+ pages = {3:1--3:27},
+ articleno = {3},
+ numpages = {27},
+ url = {http://doi.acm.org/10.1145/3140565},
+ doi = {10.1145/3140565},
+ acmid = {3140565},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Controversy, echo chambers, filter bubble, polarization, twitter},
+} 
+
+@article{morales2015measuring,
+  title={Measuring political polarization: Twitter shows the two sides of Venezuela},
+  author={Morales, AJ and Borondo, Javier and Losada, Juan Carlos and Benito, Rosa M},
+  journal={Chaos: An Interdisciplinary Journal of Nonlinear Science},
+  volume={25},
+  number={3},
+  pages={033114},
+  year={2015},
+  publisher={AIP Publishing}
+}
