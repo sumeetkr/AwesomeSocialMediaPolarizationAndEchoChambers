@@ -55,12 +55,30 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 2015, Morales, A. J., Javier Borondo, Juan Carlos Losada, and Rosa M. Benito. ["Measuring political polarization: Twitter shows the two sides of Venezuela." Chaos: An Interdisciplinary Journal of Nonlinear Science 25, no. 3 (2015): 033114](https://arxiv.org/pdf/1505.04095.pdf)
 
     Important Contributions:
-
-    
+        A minority of influential users propogate their opinions
+        Proposes an opinion probability density function
+        Suggests a metric to quantify polarization
+        Measure of polarization is inspired by electric dipole moment
+        
     Dataset Used:
+        Twitter data related to late Venezuelan President Hugo Chavez
+        
 
     
     Analysis:
+        Estimate opinions using the notion of elites and listeners
+            Elites act like seeds
+            Opnion of listeners depend on social interactions, and is the mean opinion value of neighbours
+        A new measure of polarization named polarization index
+        Network Analysis
+            Used retweets to build a weighted and directed network
+            Found elites using a small set of top 0.2% influential users who participated in most activities on the network
+            Projected elite users on  a two dimensional space using word similarity
+            Elites are assigned +1 or -1 polarity
+            Opnions of rest (listeners) are based on social interaction simulation
+            Finally evaluated polarization index 
+            
+            
 
 
 2015, Williams, Hywel TP, James R. McMurray, Tim Kurz, and F. Hugo Lambert. ["Network analysis reveals open forums and echo chambers in social media discussions of climate change." Global Environmental Change 32 (2015): 126-138.](https://www.sciencedirect.com/science/article/pii/S0959378015000369)
