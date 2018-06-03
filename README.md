@@ -6,7 +6,8 @@ Table of content:
 
 # a) Data repository 
 
-## Syntetic Dataset
+## Synthetic Dataset
+Polarized groups, typically contain two densely connected groups with some cross-connections. This pattern can be modeled by Stochastic Block Models (SBMs). I have created a Jupyter Notebook file that demonstrates how to cretae such networks in a few line of code.
 
 ## Real-World Dataset
 
