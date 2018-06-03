@@ -13,6 +13,8 @@ Table of content:
 
 2018, Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
 
+2015, Barberá, Pablo, John T. Jost, Jonathan Nagler, Joshua A. Tucker, and Richard Bonneau. ["Tweeting from left to right: Is online political communication more than an echo chamber?." Psychological science 26, no. 10 (2015): 1531-1542.](http://journals.sagepub.com/doi/abs/10.1177/0956797615594620)
+
 2015, Morales, A. J., Javier Borondo, Juan Carlos Losada, and Rosa M. Benito. ["Measuring political polarization: Twitter shows the two sides of Venezuela." Chaos: An Interdisciplinary Journal of Nonlinear Science 25, no. 3 (2015): 033114](https://arxiv.org/pdf/1505.04095.pdf)
 
 2013, Guerra, Pedro Henrique Calais, Wagner Meira Jr, Claire Cardie, and Robert Kleinberg. ["A Measure of Polarization on Social Media Networks Based on Community Boundaries." In ICWSM. 2013.(https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewPDFInterstitial/6104Pedro/6360)
@@ -84,4 +86,15 @@ BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-pa
   volume={133},
   pages={89--96},
   year={2011}
+}
+
+@article{barbera2015tweeting,
+  title={Tweeting from left to right: Is online political communication more than an echo chamber?},
+  author={Barber{\'a}, Pablo and Jost, John T and Nagler, Jonathan and Tucker, Joshua A and Bonneau, Richard},
+  journal={Psychological science},
+  volume={26},
+  number={10},
+  pages={1531--1542},
+  year={2015},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
 }
