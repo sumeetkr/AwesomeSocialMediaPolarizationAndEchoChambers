@@ -15,6 +15,9 @@ Table of content:
 
 2015, Morales, A. J., Javier Borondo, Juan Carlos Losada, and Rosa M. Benito. ["Measuring political polarization: Twitter shows the two sides of Venezuela." Chaos: An Interdisciplinary Journal of Nonlinear Science 25, no. 3 (2015): 033114](https://arxiv.org/pdf/1505.04095.pdf)
 
+2013, Guerra, Pedro Henrique Calais, Wagner Meira Jr, Claire Cardie, and Robert Kleinberg. ["A Measure of Polarization on Social Media Networks Based on Community Boundaries." In ICWSM. 2013.(https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewPDFInterstitial/6104Pedro/6360)
+
+
 # d) Tutorials
 Awesome tutorial by Kiran  Garimella [Orignially shared on Dropbox](https://www.dropbox.com/s/labk5uu6e2j407h/Polarization%20on%20Social%20Media.pptx?dl=0#)
 
@@ -63,4 +66,11 @@ BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-pa
   pages={033114},
   year={2015},
   publisher={AIP Publishing}
+}
+
+@inproceedings{guerra2013measure,
+  title={A Measure of Polarization on Social Media Networks Based on Community Boundaries.},
+  author={Guerra, Pedro Henrique Calais and Meira Jr, Wagner and Cardie, Claire and Kleinberg, Robert},
+  booktitle={ICWSM},
+  year={2013}
 }
