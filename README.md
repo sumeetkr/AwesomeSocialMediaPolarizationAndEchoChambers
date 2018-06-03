@@ -1,6 +1,6 @@
 # Awesome Social-Media Polarization and Echo-Chambers
 
-This page is summarizes recent research on Polarization and Echo-chambers on Social Media. Unlike other survey pages, this site will focus on reproducible research along with data and code snippets. Inspired from other 'awesome' github pages like [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).
+This page is summarizes recent research on Polarization and Echo-chambers on Social Media. Unlike other survey pages, this site will focus on explaining research contibution along with data and code snippets (when possible). The page is Inspired by other 'awesome' github pages like [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).
 
 Table of content:
 
@@ -51,7 +51,35 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 2011, Conover, Michael, Jacob Ratkiewicz, Matthew R. Francisco, Bruno Gonçalves, Filippo Menczer, and Alessandro Flammini. ["Political polarization on twitter." ICWSM 133 (2011): 89-96](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM11/paper/download/2847/3275)
 
-    jekyll serve
+    Important Results:
+    Political retweets network exhibt segregated partisan netowork
+    Mentions networks do not exhibit segregation, instead refelcts a single heterogeneous cluster. Mentions are used for bridging.
+    Hashtags are used to reach politically opposed users
+    
+    Dataset Used:
+    Twitter, containing tweets six weeks prior to 2010 US midterm elections (250,000 Tweets and 45,000 users)
+    
+    Analysis:
+    Community Detection
+        Created a list of politically relevant hashtags. Used these hashtags for filtering tweets.
+        Built networks using retweets and mentions.
+        Extracted the largest connected components from these neworks
+        Used label propagation for community detection
+        Seeded the algorithm with initial node labels for nodes exhibiting high eigen-vector modularity.
+    Content Similarity
+        For each user, built a vector that contains all hashtags used in his tweets, weighted by their frequency
+        Found avarage similarity within clusters to be higher than across clusters
+    Political Polarization
+        Tried to identify left or right leaning
+        Two authors annotated 1000 random users
+        Used Cohen Kappa for annotation agreement
+        Found that the majority of users express political identity
+    Interaction Analysis
+        To be added
+        
+        
+    
+    
     
 2009, Gilbert, Eric, Tony Bergstrom, and Karrie Karahalios. ["Blogs are echo chambers: Blogs are echo chambers." In System Sciences, 2009. HICSS'09. 42nd Hawaii International Conference on, pp. 1-10. IEEE, 2009.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.8065&rep=rep1&type=pdf)
 
