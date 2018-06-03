@@ -1,6 +1,6 @@
-# AwesomeSocialMediaPolarizationAndEchoChambers
+# Awesome Social-Media Polarization and EchoChambers
 
-This page is summarizes recent research on Polarization and Echo-chambers on Social Media. Unlike other survey pages, this site will focus on reproducible research along with data and code snippets. 
+This page is summarizes recent research on Polarization and Echo-chambers on Social Media. Unlike other survey pages, this site will focus on reproducible research along with data and code snippets. Inspired from other 'awesome' github pages like [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).
 
 Table of content:
 
