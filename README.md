@@ -31,11 +31,15 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 # c) Publications
 
-2018, Peterson, Erik, Sharad Goel, and Shanto Iyengar. ["Echo Chambers and Partisan Polarization: Evidence from the 2016 Presidential Campaign." (2017).](https://pcl.stanford.edu/research/2017/peterson-echo-chambers.pdf)
+2018, Nabeel Gillani, Ann Yuan, Martin Saveski, Soroush Vosoughi, and Deb Roy. 2018. Me, My Echo Chamber, and I: Introspection on Social Media Polarization. In Proceedings of the 2018 World Wide Web Conference (WWW '18). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 823-831. DOI: https://doi.org/10.1145/3178876.3186130
 
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
 2018, Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
+
+2017, Peterson, Erik, Sharad Goel, and Shanto Iyengar. ["Echo Chambers and Partisan Polarization: Evidence from the 2016 Presidential Campaign." (2017).](https://pcl.stanford.edu/research/2017/peterson-echo-chambers.pdf)
+
+2017, Takikawa, Hiroki, and Kikuko Nagayoshi. ["Political Polarization in Social Media: Analysis of the" Twitter Political Field" in Japan." arXiv preprint arXiv:1711.06752 (2017).](https://arxiv.org/pdf/1711.06752)
 
 2015, Barberá, Pablo, John T. Jost, Jonathan Nagler, Joshua A. Tucker, and Richard Bonneau. ["Tweeting from left to right: Is online political communication more than an echo chamber?." Psychological science 26, no. 10 (2015): 1531-1542.](http://journals.sagepub.com/doi/abs/10.1177/0956797615594620)
 
@@ -157,5 +161,31 @@ month={Jan},}
 @article{peterson2017echo,
   title={Echo Chambers and Partisan Polarization: Evidence from the 2016 Presidential Campaign},
   author={Peterson, Erik and Goel, Sharad and Iyengar, Shanto},
+  year={2017}
+}
+
+
+@inproceedings{Gillani:2018:MME:3178876.3186130,
+ author = {Gillani, Nabeel and Yuan, Ann and Saveski, Martin and Vosoughi, Soroush and Roy, Deb},
+ title = {Me, My Echo Chamber, and I: Introspection on Social Media Polarization},
+ booktitle = {Proceedings of the 2018 World Wide Web Conference},
+ series = {WWW '18},
+ year = {2018},
+ isbn = {978-1-4503-5639-8},
+ location = {Lyon, France},
+ pages = {823--831},
+ numpages = {9},
+ url = {https://doi.org/10.1145/3178876.3186130},
+ doi = {10.1145/3178876.3186130},
+ acmid = {3186130},
+ publisher = {International World Wide Web Conferences Steering Committee},
+ address = {Republic and Canton of Geneva, Switzerland},
+ keywords = {political polarization, randomized experiment, social networks},
+} 
+
+@article{takikawa2017political,
+  title={Political Polarization in Social Media: Analysis of the" Twitter Political Field" in Japan},
+  author={Takikawa, Hiroki and Nagayoshi, Kikuko},
+  journal={arXiv preprint arXiv:1711.06752},
   year={2017}
 }
