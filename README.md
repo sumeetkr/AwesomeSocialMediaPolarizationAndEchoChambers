@@ -31,7 +31,7 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 # c) Publications
 
-2018, Hu, Lin, and Anqi Li. ["The Politics of Attention." (2018](http://economics.ucdavis.edu/events/papers/313Li.pdf)
+2018, Peterson, Erik, Sharad Goel, and Shanto Iyengar. ["Echo Chambers and Partisan Polarization: Evidence from the 2016 Presidential Campaign." (2017).](https://pcl.stanford.edu/research/2017/peterson-echo-chambers.pdf)
 
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
