@@ -30,6 +30,7 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 
 # c) Publications
+2018, Stewart, Leo G., Ahmer Arif, and Kate Starbird. ["Examining trolls and polarization with a retweet network." In Proc. ACM WSDM, Workshop on Misinformation and Misbehavior Mining on the Web (to appear). Accessed January. 2018.](http://faculty.washington.edu/kstarbi/examining-trolls-polarization.pdf)
 
 2018, Nabeel Gillani, Ann Yuan, Martin Saveski, Soroush Vosoughi, and Deb Roy. 2018. Me, My Echo Chamber, and I: Introspection on Social Media Polarization. In Proceedings of the 2018 World Wide Web Conference (WWW '18). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 823-831. DOI: https://doi.org/10.1145/3178876.3186130
 
@@ -276,4 +277,10 @@ month={Jan},}
   author={Takikawa, Hiroki and Nagayoshi, Kikuko},
   journal={arXiv preprint arXiv:1711.06752},
   year={2017}
+}
+@inproceedings{stewart2018examining,
+  title={Examining trolls and polarization with a retweet network},
+  author={Stewart, Leo G and Arif, Ahmer and Starbird, Kate},
+  booktitle={Proc. ACM WSDM, Workshop on Misinformation and Misbehavior Mining on the Web (to appear). Accessed January},
+  year={2018}
 }
