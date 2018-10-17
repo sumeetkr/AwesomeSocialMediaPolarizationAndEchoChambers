@@ -86,6 +86,8 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 2015, Williams, Hywel TP, James R. McMurray, Tim Kurz, and F. Hugo Lambert. ["Network analysis reveals open forums and echo chambers in social media discussions of climate change." Global Environmental Change 32 (2015): 126-138.](https://www.sciencedirect.com/science/article/pii/S0959378015000369)
 
+2014, Akoglu, Leman. "Quantifying Political Polarity Based on Bipartite Opinion Networks." In ICWSM. 2014. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.4647&rep=rep1&type=pdf
+
 2013, Guerra, Pedro Henrique Calais, Wagner Meira Jr, Claire Cardie, and Robert Kleinberg. ["A Measure of Polarization on Social Media Networks Based on Community Boundaries." In ICWSM. 2013.(https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewPDFInterstitial/6104Pedro/6360)
 
     Important Contributions:
