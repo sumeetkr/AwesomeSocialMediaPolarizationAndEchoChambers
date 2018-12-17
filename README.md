@@ -152,14 +152,24 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 # d) Tutorials
 Awesome tutorial by Kiran  Garimella [Orignially shared on Dropbox](https://www.dropbox.com/s/labk5uu6e2j407h/Polarization%20on%20Social%20Media.pptx?dl=0#)
 
+# e) Rumor and Controversy
+Coletto, Mauro, Kiran Garimella, Aristides Gionis, and Claudio Lucchese. "A motif-based approach for identifying controversy." arXiv preprint arXiv:1703.05053 (2017).
 
-# e) Useful Websites
+
+# f) Useful Websites
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages) 
 BBC [The-myth-of-the-online-echo-chamber](http://www.bbc.com/future/story/20180416-the-myth-of-the-online-echo-chamber)
 
-# f) Related Publications, but not necessarily on the topic above
+# g) Related Publications, but not necessarily on the topic above
 
-# g) Citation of above papers in Bibtex (ToDo: This should be another file)
+# h) Citation of above papers in Bibtex (ToDo: This should be another file)
+@article{coletto2017motif,
+  title={A motif-based approach for identifying controversy},
+  author={Coletto, Mauro and Garimella, Kiran and Gionis, Aristides and Lucchese, Claudio},
+  journal={arXiv preprint arXiv:1703.05053},
+  year={2017}
+}
+
 @article{garimella2018political,
   title={Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship},
   author={Garimella, Kiran and Morales, Gianmarco De Francisci and Gionis, Aristides and Mathioudakis, Michael},
