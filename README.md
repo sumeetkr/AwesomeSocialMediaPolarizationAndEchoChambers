@@ -31,6 +31,7 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 # c) Publications
 
+
 2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251.pdf 
 
 2018, Stewart, Leo G., Ahmer Arif, and Kate Starbird. ["Examining trolls and polarization with a retweet network." In Proc. ACM WSDM, Workshop on Misinformation and Misbehavior Mining on the Web (to appear). Accessed January. 2018.](http://faculty.washington.edu/kstarbi/examining-trolls-polarization.pdf)
@@ -49,6 +50,8 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
     
     Analysis:
 
+2017, M. T. A. Amin, C. Aggarwal, S. Yao, T. Abdelzaher and L. Kaplan, "Unveiling polarization in social networks: A matrix factorization approach," IEEE INFOCOM 2017 - IEEE Conference on Computer Communications, Atlanta, GA, 2017, pp. 1-9.
+doi: 10.1109/INFOCOM.2017.8056959
 
 2017, Peterson, Erik, Sharad Goel, and Shanto Iyengar. ["Echo Chambers and Partisan Polarization: Evidence from the 2016 Presidential Campaign." (2017).](https://pcl.stanford.edu/research/2017/peterson-echo-chambers.pdf)
 
