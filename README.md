@@ -39,6 +39,20 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
+2018, Askitas, Nikolaos. "[Explaining opinion polarisation with opinion copulas.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183277)" PloS one 12, no. 8 (2017): e0183277. ``An empirically founded and widely established driving force in opinion dynamics is homophily
+i.e. the tendency of ªbirds of a featherº to ªflock togetherº. The closer our opinions are
+the more likely it is that we will interact and converge. Models using these assumptions are
+called bounded confidence models (BCM) as they assume a tolerance threshold after which
+interaction is unlikely. They are known to produce one or more clusters, depending on the
+size of the bound, with more than one cluster being possible only in the deterministic case.
+Introducing noise, as is likely to happen in a stochastic world, causes BCM to produce consensus
+which leaves us with the open problem of explaining the emergence and sustainance
+of opinion clusters and polarisation. We investigate the role of heterogeneous priors
+in opinion formation, introduce the concept of opinion copulas, argue that it is well supported
+by findings in Social Psychology and use it to show that the stochastic BCM does indeed
+produce opinion clustering without the need for extra assumptions.``
+
+
 2018, Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
 
 2018, Sîrbu, Alina, Dino Pedreschi, Fosca Giannotti, and János Kertész. "[Algorithmic bias amplifies opinion fragmentation and polarization: A bounded confidence model.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213246)" PloS one 14, no. 3 (2019): e0213246.
