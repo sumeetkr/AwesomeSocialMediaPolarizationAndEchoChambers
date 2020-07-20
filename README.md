@@ -99,8 +99,11 @@ polarisation of opinions and c) a dramatic slowing down of the speed at which th
 at the asymptotic state is reached, which makes the system highly unstable. Fragmentation
 and polarization are augmented by a fragmented initial population.``
 
-2017, M. T. A. Amin, C. Aggarwal, S. Yao, T. Abdelzaher and L. Kaplan, "Unveiling polarization in social networks: A matrix factorization approach," IEEE INFOCOM 2017 - IEEE Conference on Computer Communications, Atlanta, GA, 2017, pp. 1-9.
-doi: 10.1109/INFOCOM.2017.8056959
+2017, Garimella, Venkata Rama Kiran, and Ingmar Weber. "A long-term analysis of polarization on Twitter." In Eleventh International AAAI Conference on Web and Social Media. 2017.
+
+
+2017, M. T. A. Amin, C. Aggarwal, S. Yao, T. Abdelzaher and L. Kaplan, "[Unveiling polarization in social networks: A matrix factorization approach](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/download/15592/14846)," IEEE INFOCOM 2017 - IEEE Conference on Computer Communications, Atlanta, GA, 2017, pp. 1-9.
+doi: 10.1109/INFOCOM.2017.8056959 ``Social media has played an important role in shaping political discourse over the last decade. It is often perceived to have increased political polarization, thanks to the scale of discussions and their public nature. Here, we try to answer whether political polarization in the US on Twitter has increased over the last eight years. We analyze a large longitudinal Twitter dataset of 679,000 users and look at signs of polarization in their (i) network - how people follow political and media accounts, (ii) tweeting behavior - whether they retweet content from both sides, and (iii) content - how partisan the hashtags they use are. Our analysis shows that online polarization has indeed increased over the past eight years and that, depending on the measure, the relative change is 10%-20%. Our study is one of very few with such a long-term perspective, encompassing two US presidential elections and two mid-term elections, providing a rare longitudinal analysis.``
 
 2017, Peterson, Erik, Sharad Goel, and Shanto Iyengar. ["Echo Chambers and Partisan Polarization: Evidence from the 2016 Presidential Campaign." (2017).](https://pcl.stanford.edu/research/2017/peterson-echo-chambers.pdf)
 
