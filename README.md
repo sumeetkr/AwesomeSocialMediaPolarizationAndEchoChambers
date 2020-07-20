@@ -41,6 +41,28 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 2018, Garimella, Kiran, Gianmarco De Francisci Morales, Aristides Gionis, and Michael Mathioudakis. ["Quantifying Controversy on Social Media." ACM Transactions on Social Computing 1, no. 1 (2018): 3.](https://dl.acm.org/citation.cfm?id=3140565)
 
+2018, Sîrbu, Alina, Dino Pedreschi, Fosca Giannotti, and János Kertész. "[Algorithmic bias amplifies opinion fragmentation and polarization: A bounded confidence model.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213246)" PloS one 14, no. 3 (2019): e0213246.
+
+``
+The flow of information reaching us via the online media platforms is optimized not by the
+information content or relevance but by popularity and proximity to the target. This is typically
+performed in order to maximise platform usage. As a side effect, this introduces an
+algorithmic bias that is believed to enhance fragmentation and polarization of the societal
+debate. To study this phenomenon, we modify the well-known continuous opinion dynamics
+model of bounded confidence in order to account for the algorithmic bias and investigate its
+consequences. In the simplest version of the original model the pairs of discussion participants
+are chosen at random and their opinions get closer to each other if they are within a
+fixed tolerance level. We modify the selection rule of the discussion partners: there is an
+enhanced probability to choose individuals whose opinions are already close to each other,
+thus mimicking the behavior of online media which suggest interaction with similar peers.
+As a result we observe: a) an increased tendency towards opinion fragmentation, which
+emerges also in conditions where the original model would predict consensus, b) increased
+polarisation of opinions and c) a dramatic slowing down of the speed at which the convergence
+at the asymptotic state is reached, which makes the system highly unstable. Fragmentation
+and polarization are augmented by a fragmented initial population.
+
+``
+
 2017, M. T. A. Amin, C. Aggarwal, S. Yao, T. Abdelzaher and L. Kaplan, "Unveiling polarization in social networks: A matrix factorization approach," IEEE INFOCOM 2017 - IEEE Conference on Computer Communications, Atlanta, GA, 2017, pp. 1-9.
 doi: 10.1109/INFOCOM.2017.8056959
 
