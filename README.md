@@ -50,6 +50,16 @@ doi: 10.1109/INFOCOM.2017.8056959
 
 2017, Tang, Shiliang, Qingyun Liu, Megan McQueen, Scott Counts, Apurv Jain, Heather Zheng, and Ben Zhao. "Echo chambers in investment discussion boards." (2017). https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/investment-echo-chambers.pdf
 
+2016, Bessi, Alessandro, Fabiana Zollo, Michela Del Vicario, Michelangelo Puliga, Antonio Scala, Guido Caldarelli, Brian Uzzi, and Walter Quattrociocchi. "[Users polarization on Facebook and Youtube.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159641)" PloS one 11, no. 8 (2016): e0159641.
+``Users online tend to select information that support and adhere their beliefs, and to form
+polarized groups sharing the same view—e.g. echo chambers. Algorithms for content promotion
+may favour this phenomenon, by accounting for users preferences and thus limiting
+the exposure to unsolicited contents. To shade light on this question, we perform a comparative
+study on how same contents (videos) are consumed on different online social media—
+i.e. Facebook and YouTube—over a sample of 12M of users. Our findings show that content
+drives the emergence of echo chambers on both platforms. Moreover, we show that the
+users’ commenting patterns are accurate predictors for the formation of echo-chambers``
+
 2015, Barberá, Pablo, John T. Jost, Jonathan Nagler, Joshua A. Tucker, and Richard Bonneau. ["Tweeting from left to right: Is online political communication more than an echo chamber?." Psychological science 26, no. 10 (2015): 1531-1542.](http://journals.sagepub.com/doi/abs/10.1177/0956797615594620)
 
 2015, Morales, A. J., Javier Borondo, Juan Carlos Losada, and Rosa M. Benito. ["Measuring political polarization: Twitter shows the two sides of Venezuela." Chaos: An Interdisciplinary Journal of Nonlinear Science 25, no. 3 (2015): 033114](https://arxiv.org/pdf/1505.04095.pdf)
