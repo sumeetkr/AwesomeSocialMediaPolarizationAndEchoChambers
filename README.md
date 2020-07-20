@@ -30,6 +30,9 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 # c) Publications
 
+2020, Baumann, Fabian, Philipp Lorenz-Spreen, Igor M. Sokolov, and Michele Starnini. "[Modeling echo chambers and polarization dynamics in social networks.](https://link.aps.org/pdf/10.1103/PhysRevLett.124.048301?casa_token=w8OYI48w4ocAAAAA:29eRf3xaG3fzyYNvL08I5POEGynHOM8VoNEUZp4bpKH6DhxHpuAb0B0Cz2F-d3elO6WZoxgPboK7Jg)" Physical Review Letters 124, no. 4 (2020): 048301. ``Echo chambers and opinion polarization recently quantified in several sociopolitical contexts and across
+different social media raise concerns on their potential impact on the spread of misinformation and on the openness of debates. Despite increasing efforts, the dynamics leading to the emergence of these phenomena remain unclear. We propose a model that introduces the dynamics of radicalization as a reinforcing mechanism driving the evolution to extreme opinions from moderate initial conditions. Inspired by empirical findings on social interaction dynamics, we consider agents characterized by heterogeneous activities and homophily.We show that the transition between a global consensus and emerging radicalized states is mostly governed by social influence and by the controversialness of the topic discussed. Compared with empirical data of polarized debates on Twitter, the model qualitatively reproduces the observed relation between users’ engagement and opinions, as well as opinion segregation in the interaction network. Our findings shed light on the mechanisms that may lie at the core of the emergence of echo chambers and polarization in social media.``
+
 
 2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251.pdf 
 
