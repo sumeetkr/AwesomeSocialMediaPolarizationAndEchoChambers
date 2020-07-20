@@ -30,9 +30,29 @@ To create a synthetic dataset, you can use this Jupyter [Notebook file](https://
 
 # c) Publications
 
+
 2020, Baumann, Fabian, Philipp Lorenz-Spreen, Igor M. Sokolov, and Michele Starnini. "[Modeling echo chambers and polarization dynamics in social networks.](https://link.aps.org/pdf/10.1103/PhysRevLett.124.048301?casa_token=w8OYI48w4ocAAAAA:29eRf3xaG3fzyYNvL08I5POEGynHOM8VoNEUZp4bpKH6DhxHpuAb0B0Cz2F-d3elO6WZoxgPboK7Jg)" Physical Review Letters 124, no. 4 (2020): 048301. ``Echo chambers and opinion polarization recently quantified in several sociopolitical contexts and across
 different social media raise concerns on their potential impact on the spread of misinformation and on the openness of debates. Despite increasing efforts, the dynamics leading to the emergence of these phenomena remain unclear. We propose a model that introduces the dynamics of radicalization as a reinforcing mechanism driving the evolution to extreme opinions from moderate initial conditions. Inspired by empirical findings on social interaction dynamics, we consider agents characterized by heterogeneous activities and homophily.We show that the transition between a global consensus and emerging radicalized states is mostly governed by social influence and by the controversialness of the topic discussed. Compared with empirical data of polarized debates on Twitter, the model qualitatively reproduces the observed relation between users’ engagement and opinions, as well as opinion segregation in the interaction network. Our findings shed light on the mechanisms that may lie at the core of the emergence of echo chambers and polarization in social media.``
 
+
+2019, Amelkin, Victor, Petko Bogdanov, and Ambuj K. Singh. "[A distance measure for the analysis of polar opinion dynamics in social networks.](https://dl.acm.org/doi/pdf/10.1145/3332168)" ACM Transactions on Knowledge Discovery from Data (TKDD) 13, no. 4 (2019): 1-34. ``Analysis of opinion dynamics in social networks plays an important role in today’s life. For predicting users’
+political preference, it is particularly important to be able to analyze the dynamics of competing polar opinions,
+such as pro-Democrat vs. pro-Republican. While observing the evolution of polar opinions in a social network
+over time, can we tell when the network evolved abnormally? Furthermore, can we predict how the opinions of the
+users will change in the future? To answer such questions, it is insufficient to study individual user behavior,
+since opinions can spread beyond users’ ego-networks. Instead, we need to consider the opinion dynamics
+of all users simultaneously and capture the connection between the individuals’ behavior and the global
+evolution pattern of the social network.
+In this work, we introduce the Social Network Distance (SND)—a distance measure that quantifies the
+likelihood of evolution of one snapshot of a social network into another snapshot under a chosen model of
+polar opinion dynamics. SND has a rich semantics of a transportation problem, yet, is computable in time linear
+in the number of users and, as such, is applicable to large-scale online social networks. In our experiments
+with synthetic and Twitter data, we demonstrate the utility of our distance measure for anomalous event
+detection. It achieves a true positive rate of 0.83, twice as high as that of alternatives. The same predictions
+presented in precision-recall space show that SND retains perfect precision for recall up to 0.2. Its precision
+then decreases while maintaining more than 2-fold improvement over alternatives for recall up to 0.95. When
+used for opinion prediction in Twitter data, SND’s accuracy is 75.6%, which is 7.5% higher than that of the
+next best method.``
 
 2018, Lahoti, Preethi, Kiran Garimella, and Aristides Gionis. "Joint non-negative matrix factorization for learning ideological leaning on Twitter." In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, pp. 351-359. ACM, 2018. https://arxiv.org/pdf/1711.10251.pdf 
 
