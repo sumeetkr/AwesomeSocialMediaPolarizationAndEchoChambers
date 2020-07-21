@@ -89,22 +89,10 @@ produce opinion clustering without the need for extra assumptions.``
 
 2018, Sîrbu, Alina, Dino Pedreschi, Fosca Giannotti, and János Kertész. "[Algorithmic bias amplifies opinion fragmentation and polarization: A bounded confidence model.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213246)" PloS one 14, no. 3 (2019): e0213246.
 
-``The flow of information reaching us via the online media platforms is optimized not by the
-information content or relevance but by popularity and proximity to the target. This is typically
-performed in order to maximise platform usage. As a side effect, this introduces an
-algorithmic bias that is believed to enhance fragmentation and polarization of the societal
-debate. To study this phenomenon, we modify the well-known continuous opinion dynamics
-model of bounded confidence in order to account for the algorithmic bias and investigate its
-consequences. In the simplest version of the original model the pairs of discussion participants
-are chosen at random and their opinions get closer to each other if they are within a
-fixed tolerance level. We modify the selection rule of the discussion partners: there is an
-enhanced probability to choose individuals whose opinions are already close to each other,
-thus mimicking the behavior of online media which suggest interaction with similar peers.
-As a result we observe: a) an increased tendency towards opinion fragmentation, which
-emerges also in conditions where the original model would predict consensus, b) increased
-polarisation of opinions and c) a dramatic slowing down of the speed at which the convergence
-at the asymptotic state is reached, which makes the system highly unstable. Fragmentation
-and polarization are augmented by a fragmented initial population.``
+``The flow of information reaching us via the online media platforms is optimized not by the information content or relevance but by popularity and proximity to the target. This is typically performed in order to maximise platform usage. As a side effect, this introduces an algorithmic bias that is believed to enhance fragmentation and polarization of the societal debate. To study this phenomenon, we modify the well-known continuous opinion dynamics model of bounded confidence in order to account for the algorithmic bias and investigate its consequences. In the simplest version of the original model the pairs of discussion participants are chosen at random and their opinions get closer to each other if they are within a fixed tolerance level. We modify the selection rule of the discussion partners: there is an enhanced probability to choose individuals whose opinions are already close to each other, thus mimicking the behavior of online media which suggest interaction with similar peers. As a result we observe: a) an increased tendency towards opinion fragmentation, which emerges also in conditions where the original model would predict consensus, b) increased polarisation of opinions and c) a dramatic slowing down of the speed at which the convergence at the asymptotic state is reached, which makes the system highly unstable. Fragmentation and polarization are augmented by a fragmented initial population.``
+
+2017, Matakos, Antonis, Evimaria Terzi, and Panayiotis Tsaparas. "[Measuring and moderating opinion polarization in social networks.](http://www.cs.uoi.gr/~tsap/publications/polarization.pdf)" Data Mining and Knowledge Discovery 31, no. 5 (2017): 1480-1505. ``The polarization of society over controversial social issues has been the subject of study in social sciences for decades (Isenberg in J Personal Soc Psychol 50(6):1141–1151, 1986, Sunstein in J Polit Philos 10(2):175–195, 2002). The widespread usage of online social networks and social media, and the tendency of people to connect and interact with like-minded individuals has only intensified the phenomenon of polarization (Bakshy et al. in Science 348(6239):1130–1132, 2015). In this paper, we consider the problem of measuring and reducing polarization of opinions in a social network. Using a standard opinion formation model (Friedkin and Johnsen in J Math Soc 15(3–4):193–206, 1990), we define the polarization index, which, given a network and the opinions of the individuals in the network, it quantifies the polarization observed in the network. Our measure captures the tendency of opinions to concentrate in network communities, creating echo-chambers. Given this numeric measure of polarization, we then consider the problem of reducing polarization in the network by convincing individuals (e.g., through education, exposure to diverse viewpoints, or incentives) to adopt a more neutral stand towards controversial issues. We formally define the ModerateInternal and ModerateExpressed problems, and we prove that both our problems are NP-hard. By exploiting the linearalgebraic characteristics of the opinion formation model we design polynomial-time algorithms for both problems. Our experiments with real-world datasets demonstrate the validity of our metric, and the efficiency and the effectiveness of our algorithms in practice.``
+
 
 2017, Garimella, Venkata Rama Kiran, and Ingmar Weber. "A long-term analysis of polarization on Twitter." In Eleventh International AAAI Conference on Web and Social Media. 2017.
 
