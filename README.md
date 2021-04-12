@@ -15,7 +15,7 @@ Next, we will add attributes to these nodes. This is aligned with the idea that 
 We again use the same notebook to create attributed networks [Notebook file](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers/blob/master/CreateSyntheticDataset.ipynb). 
 
 
-Next, i will try some of the algorithms used in some of the papers listed below to find how well they on this synthetic dataset.
+Next, i will try some of the algorithms used in some of the papers listed below to find how well they perform on this synthetic dataset.
 
 
 ## Real-World Dataset
