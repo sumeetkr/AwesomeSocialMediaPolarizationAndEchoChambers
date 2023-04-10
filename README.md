@@ -153,5 +153,4 @@ Coletto, Mauro, Kiran Garimella, Aristides Gionis, and Claudio Lucchese. "A moti
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages) 
 BBC [The-myth-of-the-online-echo-chamber](http://www.bbc.com/future/story/20180416-the-myth-of-the-online-echo-chamber)
 
-# g) Related Publications, but not necessarily on the topic above
 
